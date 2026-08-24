@@ -39,3 +39,10 @@ Die Portfolio-Seite ist als eigenständige statische Website umgesetzt mit:
 - GitHub: https://github.com/linuxaaron
 - Website: https://joschaschmidt.com
 - Hauptseite: https://linuxaaron.dpdns.org
+
+
+## Responsible Use and Legal Notice
+
+Security, OSINT and technical research references on this portfolio are intended for legitimate learning, research, defensive security and authorized testing. Any tool or technique must only be applied to systems, domains, accounts, devices or data that you own or for which you have explicit authorization.
+
+You are solely responsible for your use of any referenced software or technique. The MIT License applies only where a project explicitly includes it and does not grant permission to access third-party systems, data or services without authorization.

@@ -2,6 +2,8 @@
 
 Sammlung professioneller Demo-Webseiten zur Präsentation gegenüber potenziellen Kunden.
 
+**Live Portfolio:** https://linuxaaron.github.io/portfolio/
+
 Das Repository dient als **digitales Schaufenster für Webdesign-Konzepte**. Statt nur Code zu zeigen, können Interessenten unterschiedliche Branchen-Webseiten direkt öffnen und einen Eindruck von Gestaltung, Responsive Design, Informationsarchitektur und möglichen Funktionen bekommen.
 
 ## Demo-Webseiten
@@ -51,4 +53,4 @@ Die Demo-Seiten sind eigenständige Frontend-Konzepte. Sie enthalten keine Syste
 **Linux Aaron / Joscha Aaron Schmidt**
 
 - GitHub: https://github.com/linuxaaron
-- Website: https://joschaschmidt.com
+- Persönliche Website: https://joschaschmidt.com

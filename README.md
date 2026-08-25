@@ -1,48 +1,54 @@
-# Joscha Aaron Schmidt — Portfolio
+# Webdesign Portfolio — Linux Aaron
 
-Persönliches Portfolio von **Joscha Aaron Schmidt / linux_aaron**.
+Sammlung professioneller Demo-Webseiten zur Präsentation gegenüber potenziellen Kunden.
 
-Die Seite präsentiert meine Arbeit in den Bereichen Webentwicklung, Full-Stack Development, Cybersecurity, OSINT, Linux/Unix, Netzwerktechnik, Cloud Computing, Open Source sowie Crypto- und Mining-Infrastruktur.
+Das Repository dient als **digitales Schaufenster für Webdesign-Konzepte**. Statt nur Code zu zeigen, können Interessenten direkt unterschiedliche Branchen-Webseiten öffnen und einen Eindruck von Gestaltung, Responsive Design, Informationsarchitektur und möglichen Funktionen bekommen.
 
-## Schwerpunkte
+## Demo-Webseiten
 
-- Webdesign und Webentwicklung
-- Full-Stack Development
-- Python, Rust, JavaScript, TypeScript, Go, HTML, CSS, PHP und SQL
-- Next.js, React und Node.js
-- Git, GitHub und Docker
-- Vercel, Cloudflare, Oracle Cloud und Microsoft Azure
-- Linux, Windows, macOS und BSD/Unix
-- OSINT und technische Recherche
-- Burp Suite, Nmap und Wireshark
-- Netzwerktechnik und technische Analyse
-- Kryptowährungen, Bitcoin und Mining-Infrastruktur
+| Demo | Branche | Zweck |
+|---|---|---|
+| `restaurant/` | Restaurant / Gastronomie | Speisekarte, Reservierung, Branding |
+| `it-company/` | IT-Unternehmen | Leistungen, B2B-Kommunikation, Kontakt |
+| `hairdresser/` | Friseur | Services, Preise, Studio, Termin-CTA |
+| `nail-studio/` | Nagelstudio | Treatments, Portfolio, Terminführung |
 
-## Security-Hinweis
+## Konzept
 
-Alle Security-, OSINT- und Hacking-Techniken auf dieser Seite sind ausschließlich für autorisierte Tests, Forschung, Lernzwecke und Systeme bestimmt, für die eine ausdrückliche Genehmigung vorliegt. Unbefugter Zugriff, Ausspähung, Veränderung oder Störung fremder Systeme ist nicht Bestandteil meiner Leistungen.
+Jede Demo besitzt eine eigene visuelle Identität und wird auf die jeweilige Zielgruppe zugeschnitten. Die Seiten sind als realistische Kundenprototypen aufgebaut und nicht als Kopien derselben Vorlage.
+
+Geplante Erweiterungen können beispielsweise sein:
+
+- Handwerksbetrieb
+- Autowerkstatt
+- Fitnessstudio / Personal Trainer
+- Fotograf
+- Praxis
+- Hotel / Ferienwohnung
+- Immobilienmakler
+- Café / Bar
 
 ## Technik
 
-Die Portfolio-Seite ist als eigenständige statische Website umgesetzt mit:
-
 - HTML5
 - CSS3
-- Vanilla JavaScript
-- Responsive Design
-- Dark/Light Theme
-- CSS- und JavaScript-Animationen
+- Vanilla JavaScript bzw. statische HTML/CSS-Demos
+- Responsive / Mobile-first Layouts
 - Keine externen JavaScript-Abhängigkeiten
+- GitHub Pages kompatibel
+- Klare Trennung zwischen Portfolio-Galerie und einzelnen Demo-Seiten
 
-## Links
+## Demo-Hinweis
+
+Alle Namen, Marken, Texte, Preise, Standorte und sonstigen Geschäftsdaten auf den Demo-Seiten sind **fiktiv** und dienen ausschließlich der Präsentation möglicher Webdesign-Konzepte.
+
+## Responsible Use
+
+Das Repository enthält keine Systeme oder Inhalte, die für unbefugten Zugriff auf fremde Systeme bestimmt sind. Technische Security-Hinweise in anderen Projekten des GitHub-Profils gelten ausschließlich für autorisierte Tests, Forschung und Systeme, für die eine ausdrückliche Genehmigung vorliegt.
+
+## Author
+
+**Linux Aaron / Joscha Aaron Schmidt**
 
 - GitHub: https://github.com/linuxaaron
 - Website: https://joschaschmidt.com
-- Hauptseite: https://linuxaaron.dpdns.org
-
-
-## Responsible Use and Legal Notice
-
-Security, OSINT and technical research references on this portfolio are intended for legitimate learning, research, defensive security and authorized testing. Any tool or technique must only be applied to systems, domains, accounts, devices or data that you own or for which you have explicit authorization.
-
-You are solely responsible for your use of any referenced software or technique. The MIT License applies only where a project explicitly includes it and does not grant permission to access third-party systems, data or services without authorization.
